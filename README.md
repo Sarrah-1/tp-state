@@ -66,9 +66,6 @@ Mise à jour d'une partie de l'objet avec l'opérateur spread.
 
 ![Profil](screenshots/image7.png)
 
-## Résultat final
-
-![Application complète](screenshots/11-resultat-final.png)
 
 ## Conclusion
 
